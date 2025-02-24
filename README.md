@@ -1,6 +1,3 @@
-Here’s the full code for your GitHub README file, including an SVG animation for the greeting:
-
-
 
 # Hi there! 👋 I’m Chathura Deshapriya
 
